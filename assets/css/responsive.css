@@ -1,0 +1,33 @@
+@media(max-width: 860px) {
+  .container {
+    flex-direction: column;
+  }
+
+  header nav {
+    margin: 35px 0px;
+  }
+
+  main section h1 {
+    text-align: center;
+  }
+}
+
+@media(max-width: 640px) {
+  .row {
+    flex-direction: column;
+  }
+
+  header nav ul li {
+    margin: 10px 0px;
+  }
+
+  main figcaption img {
+    width: 320px;
+  }
+}
+
+@media(min-width: 861px) {
+  header img {
+    margin-left: 50px;
+  }
+}

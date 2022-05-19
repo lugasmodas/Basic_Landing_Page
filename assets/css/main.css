@@ -1,0 +1,13 @@
+main section {
+  margin: 0 100px;
+}
+
+main section h1 {
+  font-weight: 400;
+  font-size: 300%;
+}
+
+main section p {
+  text-align: justify;
+  font-weight: 300;
+}
